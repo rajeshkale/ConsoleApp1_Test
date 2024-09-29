@@ -14,7 +14,6 @@ namespace ConsoleApp1_Test
 
         //Changes from test Branch 2 
         // Changes comming from Git
-        // This code comming from Git
        
         static void Main(string[] args)
         {
